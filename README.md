@@ -1,2 +1,4 @@
 # clean-architecture
-Clean architecture exercises during my Computer Science classes at Universidade Federal de São Paulo
+Clean architecture based API developed during my Computer Science classes at Universidade Federal de São Paulo
+
+Professor: Otávio Lemos (https://github.com/otaviolemos)
