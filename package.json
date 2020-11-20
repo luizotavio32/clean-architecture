@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/luizotavio32/clean-architecture/issues"
   },
-  "homepage": "https://github.com/luizotavio32/clean-architecture#readme"
+  "homepage": "https://github.com/luizotavio32/clean-architecture#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
