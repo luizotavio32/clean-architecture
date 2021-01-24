@@ -7,14 +7,8 @@
     "allowJs": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["src/*"],
+      "@test/*": ["test/*"]
     }
   },
-  "include": [
-    "src"
-  ],
-  "exclude": [
-    "**/*.spec.ts",
-    "**/*.test.ts"
-  ]
 }
