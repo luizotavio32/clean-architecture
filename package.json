@@ -4,6 +4,7 @@
   "description": "Clean architecture exercises during my Computer Science classes at Universidade Federal de São Paulo",
   "main": "index.js",
   "scripts": {
+    "start": "node dist/main/server.js",
     "build": "rimraf dist && tsc -p tsconfig-build.json dist",
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
     "test-verbose": "jest --passWithNoTests --runInBand",
